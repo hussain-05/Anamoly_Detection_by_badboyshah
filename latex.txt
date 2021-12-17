@@ -1,0 +1,19 @@
+\begin{tabular}{lr}
+\toprule
+{} &   label \\
+\midrule
+PartOfAHorizontalPortScan  &  825939 \\
+Okiru                      &  262690 \\
+-   Benign   -             &  146275 \\
+DDoS                       &  138777 \\
+Benign                     &   53481 \\
+C\&C                        &   15100 \\
+Attack                     &    3915 \\
+C\&C-HeartBeat              &     349 \\
+C\&C-FileDownload           &      43 \\
+C\&C-Torii                  &      30 \\
+FileDownload               &      13 \\
+C\&C-HeartBeat-FileDownload &       8 \\
+C\&C-Mirai                  &       1 \\
+\bottomrule
+\end{tabular}
